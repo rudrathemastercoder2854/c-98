@@ -1,0 +1,31 @@
+body{
+    color: blueviolet;
+    background-image:url("Blur-Background-42.jpg");
+    background-position:cover;
+}
+img{
+width:350px;
+height: 233px;
+box-shadow:0 6px 8px 0 rgb(2,2,2,0.2);
+
+}
+img:hover{
+    border-radius:140px;;
+}
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+.copy_right_footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align: center;
+    background-color: antiquewhite;
+    font-family:cursive;
+    font-style: oblique;
+    font-weight: bold;
+}
+
